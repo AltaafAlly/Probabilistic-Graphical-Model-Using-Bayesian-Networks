@@ -1,4 +1,4 @@
-# Probabilistic Graphical Model Assignment
+# Probabilistic Graphical Model Assignment Using Bayesian Networks
 
 ## Description:
 This repository contains my assignment submission for the Probabilistic Graphical Model (PGM) course. The assignment required the utilization of PGM concepts to address a domain-specific problem within the realm of artificial intelligence. For this assignment, I chose to explore the application of PGMs in the field of mental health analysis.
